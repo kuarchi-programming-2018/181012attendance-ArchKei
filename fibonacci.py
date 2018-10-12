@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Spyderエディタ
 
@@ -10,5 +10,5 @@ def fib(n):
     else :
         return fib(n-1)+fib(n-2)
     
-for i in range(1,10):
+for i in range(1,2018):
     print(fib(i))
